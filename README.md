@@ -8,7 +8,7 @@ AminoLikeFxck/Like Bot For Amino
 - pip install colored
 - pip install pyfiglet
 - pip install AminoLab
-- git clone https://github.com/LilZevi/AminoLikeFxck
+- git clone https://github.com/deluvsushi/AminoLikeFxck
 - !Для запуска/For starting!
 - cd AminoLikeFxck
 - python AminoLikeFxck.py
