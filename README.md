@@ -1,14 +1,15 @@
 # AminoLikeFxck
 AminoLikeFxck/Like Bot For Amino
 
-# Termux
+## Termux
+```shell
 - apt update -y
 - apt upgrade -y
 - pkg install python
+- pip install amino.py
 - pip install colored
 - pip install pyfiglet
-- pip install AminoLab
 - git clone https://github.com/deluvsushi/AminoLikeFxck
-- !Для запуска/For starting!
 - cd AminoLikeFxck
 - python AminoLikeFxck.py
+```
