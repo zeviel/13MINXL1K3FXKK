@@ -26,7 +26,7 @@ while True:
                 recent_blogs = sub_client.get_recent_blogs(
                     start=i, size=100).blogId
                 for blog_id in recent_blogs:
-                    executor.submit(client.like, blog_id)
+                    executor.submit(sub_client.like_blog, blog_id)
                     print(f"-- Liked::: {blog_id}")
     except Exception as e:
         print(e)
