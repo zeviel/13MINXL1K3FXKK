@@ -24,7 +24,7 @@ while True:
         with ThreadPoolExecutor(max_workers=20) as executor:
             for i in range(0, 2500, 15000):
                 recent_blogs = sub_client.get_recent_blogs(
-                    start=i, size=100).blog_Id
+                    start=i, size=100).blogId
                 for blog_id in recent_blogs:
                     executor.submit(client.like, blog_id)
                     print(f"-- Liked::: {blog_id}")
