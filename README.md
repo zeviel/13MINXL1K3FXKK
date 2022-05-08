@@ -1,5 +1,5 @@
-# AminoLikeFxck
-AminoLikeFxck/Like Bot For Amino
+# 13MINXL1K3FXKK
+Like bot for amino
 
 ## Termux
 ```shell
@@ -9,7 +9,7 @@ AminoLikeFxck/Like Bot For Amino
 - pip install amino.py
 - pip install colored
 - pip install pyfiglet
-- git clone https://github.com/deluvsushi/AminoLikeFxck
-- cd AminoLikeFxck
-- python AminoLikeFxck.py
+- git clone https://github.com/deluvsushi/13MINXL1K3FXKK
+- cd 13MINXL1K3FXKK
+- python 13MINXL1K3FXKK.py
 ```
