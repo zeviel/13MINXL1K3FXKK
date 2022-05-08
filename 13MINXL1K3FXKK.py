@@ -8,7 +8,7 @@ print(
 Script by deluvsushi
 Github : https://github.com/deluvsushi"""
 )
-print(figlet_format("Aminolikefxck", font="fourtops"))
+print(figlet_format("13MINXL1K3FXKK", font="fourtops"))
 client = amino.Client()
 email = input("-- Email::: ")
 password = input("-- Password::: ")
