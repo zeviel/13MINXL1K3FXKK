@@ -9,7 +9,7 @@ Like bot for amino
 - pip install amino.py
 - pip install colored
 - pip install pyfiglet
-- git clone https://github.com/deluvsushi/13MINXL1K3FXKK
+- git clone https://github.com/zeviel/13MINXL1K3FXKK
 - cd 13MINXL1K3FXKK
 - python 13MINXL1K3FXKK.py
 ```
